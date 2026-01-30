@@ -6,14 +6,23 @@ It has the drop logics(voltage is drop to 0v, when the operantion done.
 And, the natural-decimal numeric operation is available in this cpu.
 Translate into binaries are next steps.
 
+summarize: 
 
-*Diagram*
----------------------------------------------------------------------------
-| controlling unit |  CACHE |  Register(Integer)   ||     | DMA || MEMORY |
----------------------------------------------------------------------------
-|      ALU         |  CACHE |  Register (Floating) ||      |              |
----------------------------------------------------------------------------
-|    Accumulator   |  CACHE | REGISTER (char)      ||      |              |
----------------------------------------------------------------------------
-|       DROP-Gate  |  DROP |  DROP                ||      |              |
----------------------------------------------------------------------------
+RPU has the 
+1. Drop-logic gate
+2. Borrowing and Lifetime checker and  Flags.
+3. Error Bit Flags
+4. control unit
+5. Ownership checker  and  flags.
+6. hardware-innate assembler(text mapper).
+7. Overflows  checker
+8. DMA
+9. Data  register
+10. Opcode register
+11. Data and Opcode classifier
+12. Arithmetic  and  Logical  Unit
+13. Accumulator
+14. private space.
+15. Result flags
+    etc.
+
