@@ -29,6 +29,9 @@ RPU has the
 
 
 example  :
+--------------------
+***CISC  VERSION IS  TRANSLATE INTO  RISC  VERSION  INNATLY.***
+-------------------
 **CISC  VERSION**
 mov  rax ,  rbx, 3, 4 ,  0x2063e, 0x26893; 3  and  4  is  rax  and  rbx  value,   and  its  memory  position  explicitly
 **RISC  VERSION:**
