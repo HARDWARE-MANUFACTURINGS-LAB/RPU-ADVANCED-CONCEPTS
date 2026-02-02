@@ -15,14 +15,15 @@ RPU has the
 4. control unit
 5. Ownership checker  and  flags.
 6. hardware-innate assembler(text mapper).
-7. Overflows  checker
-8. DMA
-9. Data  register
-10. Opcode register
-11. Data and Opcode classifier
-12. Arithmetic  and  Logical  Unit
-13. Accumulator
-14. private space.
-15. Result flags
+7. value ownership  tracker
+8. Overflows  checker
+9. DMA
+10. Data  register
+11. Opcode register
+12. Data and Opcode classifier
+13. Arithmetic  and  Logical  Unit
+14. Accumulator
+15. private space.
+16. Result flags
     etc.
 
