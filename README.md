@@ -27,3 +27,5 @@ RPU has the
 16. Result flags
     etc.
 
+
+example  :  mov  rax ,  rbx, 3, 4 ; 3  and  4  is  rax  and  rbx  value
