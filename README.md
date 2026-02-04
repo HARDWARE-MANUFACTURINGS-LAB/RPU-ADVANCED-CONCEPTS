@@ -1,5 +1,8 @@
 # RPU-ADVANCED-CONCEPTS
 
+Therefore, a man should leave his parents and unite with his wife, so that the two of them can become one body.
+(Genesis chapter  2...)
+-----------------------------
 RPU, the rust processing unit is the unit of the rust code to innate processable hardware. It is the secure cpu. Cause of the rust immediately run on it.
 And, the Cache must be Bigger than traditional CPU.
 It has the drop logics(voltage is drop to 0v, when the operantion done.
