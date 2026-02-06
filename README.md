@@ -34,4 +34,7 @@ RPU has the
 example  :
 --------------------
 ***assembly  language  is  not  exist  on  the this  Processor(RPU).  Just  mapping  the truth  table  into  the  mux  and  demux , and  shift  register mocing  the  bits  to  mux . And  now, the  Operation  does.***
+**Bit  flags  are  1024 bits  length.*
+*Each  flags  are  express  "true 
+" or  "false"  of  the  the  values evaluated.**
 ***notice***  : This solving  is  not the  only  truth.
